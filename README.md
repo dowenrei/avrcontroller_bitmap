@@ -7,8 +7,7 @@ http://winavr.sourceforge.net/helpme.html
 3.Download Zadig (Change Driver to libusb-win32 (v1.2.6.0))
 https://zadig.akeo.ie/
 3. Make a C Project -> Choose Empty Project under AVR Cross Target Application
-4. Set BUild Settings 
- - Tick Generate Hex File for Flash Memory, Print Size, AVR Dude
+4. Set BUild Settings -> Tick Generate Hex File for Flash Memory, Print Size, AVR Dude
 5. Set AVR Target Settings -> Choose USBasp
 6. For first time user on Windows 10, replace the file C:\WinAVR-20100110\utils\bin\msys-1.0.dll 
 to http://www.madwizard.org/download/electronics/msys-1.0-vista64.zip
