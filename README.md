@@ -1,5 +1,8 @@
 # avrcontroller_bitmap
-It shows how to draw image on avr-controller ( Eg : ATMega644P
+
+It shows how to draw image on avr-controller ( Eg : ATMega644P)
+
+## Setup the Environment
 
 1. Install AVR 
 http://winavr.sourceforge.net/helpme.html
@@ -13,3 +16,8 @@ https://zadig.akeo.ie/
 to http://www.madwizard.org/download/electronics/msys-1.0-vista64.zip
 (This will solve *avr-gcc.exe application error " The application was unable to start correctly(0xc0000142)."*
 7. Build and Upload to Target Device TADA!
+
+## Setup the Images
+
+1. Download LCD Image Converter
+https://sourceforge.net/projects/lcd-image-converter/
