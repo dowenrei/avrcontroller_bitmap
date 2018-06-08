@@ -1,4 +1,4 @@
-# avrcontroller_bitmap
+# Il-Matto avrcontroller to draw images (bitmap)
 
 It shows how to draw image on avr-controller ( Eg : ATMega644P)
 
@@ -19,5 +19,8 @@ to http://www.madwizard.org/download/electronics/msys-1.0-vista64.zip
 
 ## Setup the Images
 
-1. Download LCD Image Converter
+1. Download LCD Image Converter to convert png to bitmap, resize the image if it's too big
 https://sourceforge.net/projects/lcd-image-converter/
+2. Image Colour R5G6B5 , size 8 bits eg 0xFF
+3. Copy the source code 
+
