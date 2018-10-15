@@ -29,3 +29,4 @@ USBasp->Change to libusbK
 in command prompt :
 make
 make flash
+make clean
