@@ -24,3 +24,8 @@ https://sourceforge.net/projects/lcd-image-converter/
 2. Image Colour R5G6B5 , size 8 bits eg 0xFF
 3. Copy the source code 
 
+## If already has make file 
+USBasp->Change to libusbK
+in command prompt :
+make
+make flash
